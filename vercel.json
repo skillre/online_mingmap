@@ -8,13 +8,6 @@
       "dest": "/index.html"
     }
   ],
-  "env": {
-    "VUE_APP_GITHUB_CLIENT_ID": "@vue-app-github-client-id",
-    "VUE_APP_GITHUB_CLIENT_SECRET": "@vue-app-github-client-secret",
-    "VUE_APP_GITHUB_REDIRECT_URI": "@vue-app-github-redirect-uri",
-    "VUE_APP_API_URL": "@vue-app-api-url",
-    "VUE_APP_COLLABORATION_URL": "@vue-app-collaboration-url"
-  },
   "functions": {
     "api/*.js": {
       "runtime": "nodejs18.x"

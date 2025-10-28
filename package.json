@@ -45,6 +45,9 @@
     "sass": "^1.53.0",
     "sass-loader": "^13.0.2"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "browserslist": [
     "> 1%",
     "last 2 versions",

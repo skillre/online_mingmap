@@ -46,7 +46,7 @@
     "sass-loader": "^13.0.2"
   },
   "engines": {
-    "node": "22.x"
+    "node": "20.x"
   },
   "browserslist": [
     "> 1%",
